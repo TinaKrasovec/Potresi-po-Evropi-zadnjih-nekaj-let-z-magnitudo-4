@@ -1,3 +1,7 @@
 # Potresi-po-Evropi-zadnjih-nekaj-let-z-magnitudo-4
 
-To je naš _prvi_ projekt.
+Ta repozitorij vsebuje projekt pri Programiranju 1.
+
+bla bla 
+
+Ljubljana, 19. oktober 2016
