@@ -3,7 +3,7 @@
 Ta repozitorij vsebuje projekt pri Programiranju 1 - zajem in analiza podakov.
 
 Podatke sem zajela s spletne strani http://www.emsc-csem.org/Earthquake/europe/M4/
-Za potrese od 7. 1. 2013 do 1. 11. 2016 sem pridobila podatke za:
+Za potrese od 7. 1. 2013 do 1. 11. 2016 sem pridobila podatke za:  
 leto, mesec in dan potresa,  
 uro,  
 geografsko širino in dolžino,  
