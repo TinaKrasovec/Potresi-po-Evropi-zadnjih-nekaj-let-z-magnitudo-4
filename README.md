@@ -11,8 +11,9 @@ globino,
 magnitudo in  
 državo
 
-##Analizirali bomo: 
-kateri je bil najmočnejši potres,  
+##Analizirala bom / hipoteze: 
+
+Kateri je bil najmočnejši potres,  
 v katerem letu je bilo največ potresov,  
 kateri potres je bil najmočnejši v letu, ko je bilo največ potresov,  
 v katerem mesecu je bilo največ potresov,  
@@ -20,10 +21,14 @@ kateri potres je bil najmočnejši v mesecu, ko jih je bilo največ,
 v kateri državi je bilo največ potresov,  
 kje so v povprečju najmočnejši potresi in  
 kje je povprečna globina izvora potresa največja 
+ali lahko vidimo kje je največ potresov
 
-##Predpriprava
+##Predpriprava:
+
 Najprej s pomočjo datoteke shrani_stran-popravljena.py spletne strani shranimo v mapo, nato s pomočjo datoteke csv-koncna.py  pretvorimo podatke v tabelo potresi.csv.  
 Ostale pythonove datoteke nam pomagajo priti do željene csv datoteke.
-##Rezultati
+
+##Rezultati:
+
 Projekt se nahaja v datoteki Projekt.ipynb.  
 Ostale datoteke pa so namenjene zapisu osnovnih funkcij.
