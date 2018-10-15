@@ -19,8 +19,8 @@ kateri potres je bil najmočnejši v letu, ko je bilo največ potresov,
 v katerem mesecu je bilo največ potresov,  
 kateri potres je bil najmočnejši v mesecu, ko jih je bilo največ,  
 v kateri državi je bilo največ potresov,  
-kje so v povprečju najmočnejši potresi in  
-kje je povprečna globina izvora potresa največja 
+kje so v povprečju najmočnejši potresi,  
+kje je povprečna globina izvora potresa največja in  
 ali lahko vidimo kje je največ potresov
 
 ##Predpriprava:
