@@ -26,7 +26,10 @@ ali lahko vidimo kje je največ potresov
 ##Predpriprava:
 
 Najprej s pomočjo datoteke shrani_stran-popravljena.py spletne strani shranimo v mapo, nato s pomočjo datoteke csv-koncna.py  pretvorimo podatke v tabelo potresi.csv.  
-Ostale pythonove datoteke nam pomagajo priti do željene csv datoteke.
+Ostale pythonove datoteke nam pomagajo priti do želene csv datoteke.
+
+csv
+Datoteke csv-group.py, csv-groupdict.py in csv-koncna.py so v pomoč za pretvorbo podatkov v tablo (potresi.csv). V teh treh omenjenih datotekah poimenujemo skupine zajetih podatkov. Torej id, leto, mesec, dan in uro potresa ter v kateri državi se je potres zgodil z globino in magnitudo. Naštete podatke izločimo s pomočjo regularnih izrazov iz html strani. Nato podatke še počistimo, da dobimo želene lastnosti in jih s pomočjo csv-koncna.py oblikujemo v csv datoteko (potresi.csv).
 
 ##Rezultati:
 
