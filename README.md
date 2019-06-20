@@ -11,7 +11,7 @@ globino,
 magnitudo in  
 državo
 
-##Analizirala bom / hipoteze  
+## Analizirala bom / hipoteze  
 
 Kateri je bil najmočnejši potres,  
 v katerem letu je bilo največ potresov,  
@@ -23,7 +23,7 @@ kje so v povprečju najmočnejši potresi,
 kje je povprečna globina izvora potresa največja in  
 ali lahko vidimo kje je največ potresov
 
-##Predpriprava  
+## Predpriprava  
 
 Najprej s pomočjo datoteke shrani_stran-popravljena.py spletne strani shranimo v mapo, nato s pomočjo datoteke csv-koncna.py  pretvorimo podatke v tabelo potresi.csv.  
 Ostale pythonove datoteke nam pomagajo priti do želene csv datoteke.
